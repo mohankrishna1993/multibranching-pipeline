@@ -4,7 +4,7 @@ pipeline {
     stages {   
         stage('Master') { 
             steps { 
-               sh 'echo "This is master branch to main branch"' 
+               sh 'echo "This is master branch to main branch........"' 
             }
         }
      
